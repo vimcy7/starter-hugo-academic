@@ -15,5 +15,5 @@ social:
     icon: <i class="fab fa-github"></i>
 organizations:
   - name: IIT Madras
-superuser: false
+superuser: true
 ---
